@@ -1,6 +1,7 @@
 # Information of Sour Al-Qura'an Al-Kareem
 This app provides general information about Sour (chapters) of the Holy Qura'an
 ### The live link
+https://ola014.github.io/Quran-App/
 ### Accessing the information
 Many times, muslims user needs to access quickly general information  about Sour Al-Qura'an Al-Kareem through smart phones. Building a simple search app for each Soura of  Al-Qura'an Al-Kareem which display the squence number of eachone, the verses count, and the place of revelation, will solve this problem.
 ### User journey
